@@ -3,11 +3,11 @@
 #It may be your python project.
 #But I hope that you don't copy it all.
 #you shoule try to understand it
-#there are a lot of explanatory note in Chinese .It may be helpful for you to understand .
+#there are a lot of explanatory note in Chinese .It may be helpful for you to understand 
 
-##
-import torch
 
+#upload
+update the codes for it and add an additional VAE to generate Mnist/
 
 
 
